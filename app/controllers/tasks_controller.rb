@@ -1,4 +1,5 @@
 class TasksController < ApplicationController
+
   def index
     @task = Task.all
   end
@@ -43,4 +44,5 @@ class TasksController < ApplicationController
   def task_params
     params.require(:task).permit(:title, :details, :completed)
   end
+
 end
