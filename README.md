@@ -8,9 +8,8 @@ Une application web de gestion de tâches développée avec Ruby dans le cadre d
 3. [Technologies utilisées](#technologies-utilisées)
 4. [Installation](#installation)
 5. [Structure du projet](#structure-du-projet)
-6. [Captures d'écran](#captures-décran)
-7. [Apprentissages](#apprentissages)
-8. [License](#license)
+6. [Apprentissages](#apprentissages)
+7. [License](#license)
 
 ## 🎯 Présentation du projet
 
@@ -71,12 +70,6 @@ todo-list-wagon/
 ├── Gemfile
 └── README.md
 ```
-
-## 📸 Captures d'écran
-
-![Page d'accueil](screenshots/home.png)
-![Création de tâche](screenshots/create-task.png)
-![Liste des tâches](screenshots/task-list.png)
 
 ## 📚 Apprentissages
 
