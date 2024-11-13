@@ -37,10 +37,10 @@ Ce projet a été réalisé dans le cadre de la formation de développement web 
 
 ```bash
 # Cloner le repository
-git clone 
+git clone https://github.com/ClarisseKessab/rails-task-manager.git
 
 # Accéder au dossier
-cd 
+cd rails-task-manager
 
 # Installer les dépendances
 bundle install
